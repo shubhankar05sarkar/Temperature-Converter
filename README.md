@@ -52,7 +52,7 @@ The user interface consists of the following components:
 
 ## 🖼Preview
 
-![Temperature Conversion UI](#)
+![Temperature Conversion UI](https://github.com/shubhankar05sarkar/Temperature-Converter/blob/47767355e058003e504307db7a94eb4126646a3a/Temperature%20Converter.png)
 *A sleek and intuitive interface designed for ease of use.*
 
 ---
