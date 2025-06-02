@@ -45,8 +45,6 @@ The user interface consists of the following components:
 * **`style.css`**
   CSS file to style the interface, ensuring a clean and user-friendly design.
 
-* **`index.js`**
-  JavaScript file that implements the temperature conversion logic and interactivity.
 
 ---
 
