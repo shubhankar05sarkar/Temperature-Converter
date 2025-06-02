@@ -2,6 +2,8 @@
 
 A web-based tool designed to convert temperatures between Celsius and Fahrenheit effortlessly.
 
+### Deployed at Netlify - https://magical-griffin-c4e2fd.netlify.app/
+
 ---
 
 ## Features
