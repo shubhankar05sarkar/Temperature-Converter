@@ -42,8 +42,6 @@ The user interface consists of the following components:
 * **`index.html`**
   The main HTML file containing the structure and layout of the application.
 
-* **`style.css`**
-  CSS file to style the interface, ensuring a clean and user-friendly design.
 
 
 ---
