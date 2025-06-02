@@ -37,15 +37,6 @@ The user interface consists of the following components:
 
 ---
 
-## Project Structure
-
-* **`index.html`**
-  The main HTML file containing the structure and layout of the application.
-
-
-
----
-
 ## Preview
 
 ![Temperature Conversion UI](https://github.com/shubhankar05sarkar/Temperature-Converter/blob/47767355e058003e504307db7a94eb4126646a3a/Temperature%20Converter.png)<br>
