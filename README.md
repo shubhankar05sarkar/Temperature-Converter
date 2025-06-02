@@ -14,8 +14,6 @@ A web-based tool designed to convert temperatures between Celsius and Fahrenheit
 
 ---
 
-## Getting Started
-
 ### How to Use:
 
 1. **Input Temperature:** Enter the temperature value in the designated input box.
@@ -81,7 +79,7 @@ The user interface consists of the following components:
 
 ---
 
-## ✨ Contribution
+## Contribution
 
 Contributions are always welcome! If you have suggestions for improvements or new features, please:
 
