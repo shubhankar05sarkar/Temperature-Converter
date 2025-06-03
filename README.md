@@ -7,7 +7,7 @@ A web-based tool designed to convert temperatures between Celsius and Fahrenheit
 ---
 
 ## Features
-
+ 
 * **Dual Conversion:** Seamlessly convert between Celsius and Fahrenheit.
 * **Responsive Design:** Clean and adaptable interface for all devices.
 * **Real-Time Results:** Instant conversion with just a single click.
